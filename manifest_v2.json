@@ -49,5 +49,7 @@
       "file_name": "downloads/EdgeUI-photos-10P9P-v3.bin"
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
