@@ -47,6 +47,14 @@
     "xmb10p": {
       "version": "1.0",
       "file_name": "downloads/EdgeUI-photos-10P9P-v3.bin"
+    },
+    "xmrw5xring": {
+      "version": "1.0",
+      "file_name": "downloads/EdgeUI-photos-56-v2.bin"
+    },
+    "xmb10nfc": {
+      "version": "1.0",
+      "file_name": "downloads/EdgeUI-photos-10-v2.bin"
     }
   },
   "ext": {
