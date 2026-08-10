@@ -27,35 +27,35 @@
   "downloads": {
     "xmrw5": {
       "version": "1.0",
-      "file_name": "downloads/EdgeUI-photos-56-v2.bin"
+      "file_name": "downloads/EdgeUI-photos-56-v5.bin"
     },
     "xmrw6": {
       "version": "1.0",
-      "file_name": "downloads/EdgeUI-photos-56-v2.bin"
+      "file_name": "downloads/EdgeUI-photos-56-v5.bin"
     },
     "xmb10": {
       "version": "1.0",
-      "file_name": "downloads/EdgeUI-photos-10-v2.bin"
+      "file_name": "downloads/EdgeUI-photos-10-v5.bin"
     },
     "xmb9": {
       "version": "1.0",
-      "file_name": "downloads/EdgeUI-photos-9-v2.bin"
+      "file_name": "downloads/EdgeUI-photos-9-v5.bin"
     },
     "xmb9p": {
       "version": "1.0",
-      "file_name": "downloads/EdgeUI-photos-10P9P-v3.bin"
+      "file_name": "downloads/EdgeUI-photos-10P9P-v5.bin"
     },
     "xmb10p": {
       "version": "1.0",
-      "file_name": "downloads/EdgeUI-photos-10P9P-v3.bin"
+      "file_name": "downloads/EdgeUI-photos-10P9P-v5.bin"
     },
     "xmrw5xring": {
       "version": "1.0",
-      "file_name": "downloads/EdgeUI-photos-56-v2.bin"
+      "file_name": "downloads/EdgeUI-photos-56-v5.bin"
     },
     "xmb10nfc": {
       "version": "1.0",
-      "file_name": "downloads/EdgeUI-photos-10-v2.bin"
+      "file_name": "downloads/EdgeUI-photos-56-v5.bin"
     }
   },
   "ext": {
