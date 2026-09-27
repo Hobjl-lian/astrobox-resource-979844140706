@@ -21,7 +21,7 @@
     {
       "title": "点击在爱发电了解详情",
       "url": "https://www.ifdian.net/item/849396a0826811f1b0c152540025c377?utm_source=copylink&utm_medium=link",
-      "icon": ""
+      "icon": "arrow-bend-right-up"
     }
   ],
   "downloads": {
@@ -56,6 +56,16 @@
     "xmb10nfc": {
       "version": "1.0",
       "file_name": "downloads/EdgeUI-photos-10-v5.bin"
+    },
+    "xmb11": {
+      "version": "1.0.4",
+      "file_name": "downloads/EdgeUI-photos-1011-v5-xmb11.bin",
+      "versionCode": 65540
+    },
+    "xmb11nfc": {
+      "version": "1.0.4",
+      "file_name": "downloads/EdgeUI-photos-1011-v5-xmb11nfc.bin",
+      "versionCode": 65540
     }
   },
   "ext": {
