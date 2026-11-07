@@ -3,12 +3,12 @@
     "id": "979844140706",
     "restype": "watchface",
     "name": "EdgeUI-照片表盘（样式1）",
-    "description": "已在爱发电购买的用户请先绑定爱发电账号后来这里安装哦，未购买的用户可以点击上方爱发电链接了解表盘详情~",
+    "description": "「这是小米穿戴最好的二次元照片表盘，没有之一」\n\n仿微软的设计风格，简约、轻便、但美观优雅。12种表盘配色，什么风格都能驾驭。从这里，开始体验全新的照片表盘。\n\n「创作版」表盘将不断保持更新，包括但不限于全新UI、更多配色方案、更多字体、支持更多自定义内容等等。",
     "preview": [
-      "media/0.png",
-      "media/1.png",
-      "media/2.png",
-      "media/3.png"
+      "media/Frame 1.png",
+      "media/Frame 2.png",
+      "media/Frame 3.png",
+      "media/Frame 4.png"
     ],
     "icon": "media/icons.png",
     "cover": "media/ab封面图.jpg",
